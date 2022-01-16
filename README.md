@@ -2,7 +2,7 @@
 
 `git clone https://github.com/BYUI-CIT-262/stedi-content`
 
-`cd stedi-content`
+`cd stedi-content` 
 
 `Docker build . -t stedi-content`
 
